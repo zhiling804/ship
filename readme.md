@@ -12,4 +12,4 @@ OCR 資料準備 (prepare_data.py)：利用 YOLO 標註檔，從原始圖片中�
 
 已訓練好的模型連結:https://drive.google.com/file/d/1Llp9eqlKmdqn2C4LxE1AWLCWA11zWY4_/view
 
-最後執行demo_interactive.py
+ 直接執行demo_interactive.py
